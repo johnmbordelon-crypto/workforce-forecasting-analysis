@@ -20,7 +20,7 @@ An interactive Excel workbook brings together the underlying data, forecasting c
 
 The dashboard provides a consolidated view of call volume, forecasting performance, and workforce staffing requirements.
 
-*Dashboard screenshot to be added here.*
+![Workforce Forecasting Executive Dashboard](dashboard-preview.png)
 
 ### Key Performance Indicators
 
